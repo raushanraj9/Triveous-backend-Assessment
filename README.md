@@ -116,7 +116,7 @@ Our API is thoroughly documented to help you integrate the backend with your fro
 
 <br>
 
-### Swagger API Docs :  <a href="http://54.82.202.67:8080/docs/">click here</a>
+### API Docs :  <a href="http://54.82.202.67:8080/docs/">click here</a>
 
 <br>
 
@@ -128,4 +128,4 @@ To understand the data structure of our MongoDB database, explore the [Database 
 
 We maintain a clean and organized folder structure for easy navigation and development. Get familiar with it in the [Folder Structure](docs/FolderStructure.md) document.
 
-Made with ❤️ by the Triveous Ecommerce Team
+Made with ❤️ by Raushan Raj
